@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavadMoradkhah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning web development
 - 💞️ I am looking for a job in a company
 - 📫 My email: javadmoradkhah.dev@gmail.com
 
