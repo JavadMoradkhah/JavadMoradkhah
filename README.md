@@ -13,11 +13,9 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=ecda0f&logo=JavaScript&logoColor=333333&label=" />
   <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
-  
-  <img alt="npm" src="https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=red&logo=npm&logoColor=FFFFFF&label=" />
+  <img alt="npm" src="https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=d91a1a&logo=npm&logoColor=FFFFFF&label=" />
   <img alt="git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
-  
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
+  <img alt="TypeScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=blue&logo=TypeScript&logoColor=FFFFFF&label=" />
+  <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=429543&logo=MongoDB&logoColor=FFFFFF&label=" />
+  <img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=f79d00&logo=MySQL&logoColor=FFFFFF&label=" />
 </p>
