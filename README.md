@@ -19,3 +19,14 @@ You can click the Preview link to take a look at your changes.
   <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=429543&logo=MongoDB&logoColor=FFFFFF&label=" />
   <img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=f79d00&logo=MySQL&logoColor=FFFFFF&label=" />
 </p>
+
+## Contact Me
+<a href="https://t.me/JavadMoradkhah">
+   <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=3496ee&logo=Telegram&logoColor=FFFFFF&label=" />
+</a>
+<a href="https://twitter.com/JMoradkhah">
+   <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1da1f2&logo=Twitter&logoColor=FFFFFF&label=" />
+</a>
+<a href="https://www.linkedin.com/in/javad-moradkhah">
+   <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077b5&logo=LinkedIn&logoColor=FFFFFF&label=" />
+</a>
