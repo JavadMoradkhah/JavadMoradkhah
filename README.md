@@ -37,7 +37,8 @@ You can click the Preview link to take a look at your changes.
 ## General Skills
 <p>
   <img alt="npm" src="https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=d91a1a&logo=npm&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
+  <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
+  <img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=0284c7&logo=docker&logoColor=fff&label=" />
 </p>
 
 ## Contact Me
