@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 <p>
   <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=429543&logo=MongoDB&logoColor=FFFFFF&label=" />
   <img alt="MySQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=f79d00&logo=MySQL&logoColor=FFFFFF&label=" />
+  <img alt="Redis" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382C&logo=redis&logoColor=fff&label=" />
 </p>
 
 ## General Skills
