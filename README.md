@@ -21,22 +21,22 @@ const profile = {
   ],
   skills: {
     languages: [
-      'JavaScript', 'TypeScript', 'Python'
-    ],
-    serverSide: [
-      'Node.js'
+      'JavaScript', 'Python', 'TypeScript'
     ],
     clientSide: [
-      'Html', 'Css', 'TailwindCss'
+      'Html', 'Css', 'TailwindCss', 'React', 'Astro'
     ],
     frameworks: [
-      'ExpressJs'
+      'Django', 'Django REST framework'
     ],
     databases: [
       'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'
     ],
-    tools: [
-      'Git', 'Docker', 'Postman'
+    webServers: [
+      'Nginx'
+    ],
+    deploymentTools: [
+      'Docker'
     ]
   }
 };
