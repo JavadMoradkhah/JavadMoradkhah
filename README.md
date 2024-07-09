@@ -6,14 +6,14 @@ const profile = {
   education: [
     {
       degree: 'Associate',
-      major: 'Software Engineering',
-      university: 'Islamic Azad University - Ahar Branch'
+      major: 'Computer Software Engineering',
+      university: 'Islamic Azad University'
     },
     {
       
       degree: 'Bachelor',
-      major: 'Software Engineering',
-      university: 'Islamic Azad University - Ahar Branch'
+      major: 'Computer Software Engineering',
+      university: 'Islamic Azad University'
     }
   ],
   languages: [
@@ -21,22 +21,28 @@ const profile = {
   ],
   skills: {
     languages: [
-      'JavaScript', 'Python', 'TypeScript'
+      'JavaScript', 'TypeScript', 'Python'
     ],
     clientSide: [
-      'Html', 'Css', 'TailwindCss', 'React', 'Astro'
+      'Html', 'Css', 'TailwindCss'
     ],
-    frameworks: [
-      'Django', 'Django REST framework'
+    serverSide: [
+      'Node.js', 'WSGI'
+    ],
+    frontendFrameworks: [
+      'ReactJs', 'NextJs', 'Astro'
+    ],
+    backendFrameworks: [
+      'Express', 'NestJs', 'Django', 'Django REST framework'
     ],
     databases: [
       'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'
     ],
     webServers: [
-      'Nginx'
+      'Nginx', 'Gunicorn'
     ],
     deploymentTools: [
-      'Docker'
+      'Docker', 'Git'
     ]
   }
 };
