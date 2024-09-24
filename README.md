@@ -21,25 +21,25 @@ const profile = {
   ],
   skills: {
     languages: [
-      'JavaScript', 'TypeScript', 'Python'
+      'JavaScript', 'TypeScript'
     ],
     clientSide: [
       'Html', 'Css', 'TailwindCss'
     ],
     serverSide: [
-      'Node.js', 'WSGI'
+      'Node.js'
     ],
     frontendFrameworks: [
       'ReactJs', 'NextJs', 'Astro'
     ],
     backendFrameworks: [
-      'Express', 'NestJs', 'Django', 'Django REST framework'
+      'Express', 'NestJs'
     ],
     databases: [
       'MySQL', 'PostgreSQL', 'MongoDB', 'Redis'
     ],
     webServers: [
-      'Nginx', 'Gunicorn'
+      'Nginx'
     ],
     deploymentTools: [
       'Docker', 'Git'
