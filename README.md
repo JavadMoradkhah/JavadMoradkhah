@@ -2,7 +2,7 @@
 const profile = {
   firstName: 'Javad',
   lastName: 'Moradkhah',
-  birthDate: new Date('2000-06-05'),
+  birthYear: 2000,
   education: [
     {
       degree: 'Associate',
@@ -15,9 +15,6 @@ const profile = {
       major: 'Computer Software Engineering',
       university: 'Islamic Azad University'
     }
-  ],
-  languages: [
-    'Turkish', 'Persian', 'English'
   ],
   skills: {
     languages: [
@@ -42,7 +39,7 @@ const profile = {
       'Nginx'
     ],
     deploymentTools: [
-      'Docker', 'Git'
+      'Docker', 'Git', 'PM2'
     ]
   }
 };
